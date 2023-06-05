@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "269763470868",
+    "project_id": "vpnapp-7299a",
+    "storage_bucket": "vpnapp-7299a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269763470868:android:86df6bb9119d6a571fa901",
+        "android_client_info": {
+          "package_name": "com.example.vpn_ui_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkR1MTuOWj2CwBsWhmWkPO9SWo6J7-Mwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
